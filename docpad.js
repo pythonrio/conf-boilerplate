@@ -85,7 +85,7 @@ module.exports = {
       {
         name: "Hugo Leonardo",
         photo: "themes/blue-is-the-warmest-color/custom/hugoleodev.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        bio: "Desenvolvedor de software com experiência em soluções Web e integrações entre sistemas. Além de grande interesse em ferramentas de provisionamento de servidores como Chef, Puppet e Ansible.",
         // company: "Microsoft",
         link: {
           href: "https://github.com/hugoleodev",
