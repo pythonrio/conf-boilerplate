@@ -8,7 +8,7 @@ module.exports = {
     // Conference info
     conf: {
       name: "Meetup PythonRio",
-      description: "Conference description",
+      description: "Meetup de Python no Rio de Janeiro",
       date: "31 de janeiro",
       // If your event is free, just comment this line
       // price: "$100",
@@ -33,7 +33,7 @@ module.exports = {
     // Site info
     site: {
       theme: "blue-is-the-warmest-color",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://pythonrio.github.io",
       googleanalytics: "UA-33656081-1"
     },
 
