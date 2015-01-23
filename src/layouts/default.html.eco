@@ -16,11 +16,15 @@
   <meta property="og:url" content="<%= @site.url %>">
   <meta property="og:title" content="<%= @conf.name %>">
   <meta property="og:description" content="<%= @conf.description %>">
-  <meta property="og:image" content="<%= @getUrl() %>/<%= @getTheme() %>/img/badge.jpg">
+  <meta property="og:image" content="<%= @getUrl() %>/<%= @getTheme() %>/custom/pythonrio.png">
   <!-- / FACEBOOK -->
 
   <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<%= @getTheme() %>/img/apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<%= @getTheme() %>/img/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<%= @getTheme() %>/img/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="<%= @getTheme() %>/img/apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon-precomposed.png">
 
   <!-- STYLES -->
   <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css">
