@@ -12,8 +12,8 @@ module.exports = {
       date: "31 de janeiro",
       // If your event is free, just comment this line
       // price: "$100",
-      venue: "Nitis Office",
-      address: "Praça Mahatma Gandhi, 2 (sala 882) - Centro",
+      venue: "Hotel Urbano",
+      address: "Av. Ayrton Senna, 2.150, BLOCO I, sala 204, Barra da Tijuca",
       city: "Rio de Janeiro",
       state: "RJ"
     },
@@ -182,6 +182,12 @@ module.exports = {
         name: "Nitis Office",
         logo: "themes/blue-is-the-warmest-color/custom/nitis_logo.png",
         url: "http://www.nitisoffice.com.br/"
+      },
+
+      {
+        name: "Hotel Urbano",
+        logo: "themes/blue-is-the-warmest-color/custom/hotel_urbano.jpg",
+        url: "http://www.hotelurbano.com/"
       }
     ],
 
