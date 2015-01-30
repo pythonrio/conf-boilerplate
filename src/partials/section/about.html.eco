@@ -1,6 +1,6 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 <p itemprop="description">Acabou a tristeza! A galera de Python do Rio vai se encontrar novamente e trocar uma ideia.</p>
 
-<p>Como nosso espaço é limitado, precisamos que registrem-se <a href="http://www.eventick.com.br/meetup-python-rio">aqui</a>. Temos apenas 35 vagas!</p>
+<p>Como nosso espaço é limitado, precisamos que registrem-se <a href="http://www.eventick.com.br/meetup-python-rio">aqui</a>. Temos apenas 30 vagas!</p>
 
 <p>Caso tenha se inscrito mas não poderá comparecer, pedimos que nos informe através da <a href="https://www.facebook.com/events/398543193635749/">página do evento no facebook</a>.</p>
